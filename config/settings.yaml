@@ -1,0 +1,4 @@
+defaults:
+  thickness: 2
+  default_bleed: 3
+  default_flap_height: 150
